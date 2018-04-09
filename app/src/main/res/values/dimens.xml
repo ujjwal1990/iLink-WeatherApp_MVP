@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h10">10dp</dimen>
+    <dimen name="h40">40dp</dimen>
+</resources>
